@@ -1,0 +1,6 @@
+Nama: Bunga
+Latihan asynchconous JavaScript:
+- Callback
+- Promise
+- Async/Await
+- Fetch API
